@@ -15,19 +15,25 @@ How can age-specific mortality patterns inform targeted healthcare resource allo
 
 #### Current Progress
 
-Data Integration: Combined CDC, OECD, and WHO datasets to comprehensively analyze mortality trends.
+- Data Integration: Combined CDC, OECD, and WHO datasets to comprehensively analyze mortality trends.
 
-Interactive Visualization: Developed a dynamic dashboard using Plotly to enhance data exploration, usability, and engagement.
+- Interactive Visualization: Developed a dynamic dashboard using Plotly to enhance data exploration, usability, and engagement.
+![Average Death Cause Percentage by Age Group](average_death_cause_percentage_by_age_group.jpg)
 
 #### Key Features
 
-Interactive graphs displaying mortality percentages by cause and age group.
-Enhanced interpretability and user engagement through dynamic exploration.
+- Interactive graphs displaying mortality percentages by cause and age group.
+- Enhanced interpretability and user engagement through dynamic exploration.
 
+Our Colab Link is https://colab.research.google.com/drive/1kC6ilGj_CKXCvTS0Z8EU_ag2qJxzGebn#scrollTo=kVztrjq-r2Qd
 #### Next Steps
 
 Develop additional intuitive and diverse interactive visualizations.
 Optimise visual enhancements, including colour schemes, responsive layouts, and user interfaces, to improve accessibility and interoperability.
 
-#### Team Contribution
+### Team Contribution
 All team members contributed equally and collaboratively to the successful development of this project. Qianyue Jiao led the data collection and preprocessing phase, ensuring that all datasets adhered to international standards such as FAIR and CARE principles. Yifei Yang focused on exploratory data analysis and the application of potential methods for insight generation, contributing to both the technical depth and interpretability of the project. Zixuan Li was responsible for designing the interactive visualization dashboard and drafting the innovation flowchart, integrating user-centred design principles and technical implementation.
+
+### Acknowledgement
+
+We appreciate Prof. Luyao Zhang, whose expert guidance and continuous support significantly shaped our research methodology and visualization strategies. We also appreciate our classmates' valuable insights and feedback during proposal reviews and visualization prototyping sessions. Their constructive criticism and suggestions greatly improved the clarity and effectiveness of our visual and analytical approaches.
