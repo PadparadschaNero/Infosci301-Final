@@ -27,5 +27,7 @@ Enhanced interpretability and user engagement through dynamic exploration.
 #### Next Steps
 
 Develop additional intuitive and diverse interactive visualizations.
-Optimise visual enhancements, including colour schemes, responsive layouts, and user interfaces, to improve accessibility and interpretability.
+Optimise visual enhancements, including colour schemes, responsive layouts, and user interfaces, to improve accessibility and interoperability.
 
+#### Team Contribution
+All team members contributed equally and collaboratively to the successful development of this project. Qianyue Jiao led the data collection and preprocessing phase, ensuring that all datasets adhered to international standards such as FAIR and CARE principles. Yifei Yang focused on exploratory data analysis and the application of potential methods for insight generation, contributing to both the technical depth and interpretability of the project. Zixuan Li was responsible for designing the interactive visualization dashboard and drafting the innovation flowchart, integrating user-centred design principles and technical implementation.
