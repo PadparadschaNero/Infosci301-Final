@@ -26,10 +26,10 @@ Using authoritative datasets from the **Centers for Disease Control and Preventi
 
 **How can age-specific mortality patterns inform targeted healthcare resource allocation for ageing populations worldwide?**
 
-## 🛠️ Processing & Visualization
-
 ## 📊 SDG Goals
 ![image](https://github.com/user-attachments/assets/1de7ff97-aa9a-4c65-9ee4-97143c37a0fc)
+
+## 🛠️ Processing & Visualization
 
 ### ✅ Current Progress
 
