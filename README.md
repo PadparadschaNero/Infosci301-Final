@@ -33,6 +33,8 @@ Using authoritative datasets from the **Centers for Disease Control and Preventi
 
 ### ✅ Current Progress
 
+![image](https://github.com/user-attachments/assets/c6cb9a33-ceb4-4e50-85d8-594d7aa5bc21)
+
 - **Data Integration**: Merged CDC, OECD, and WHO datasets to analyze cross-country mortality trends.
 - **Interactive Dashboard**: Built using **Plotly**, enabling dynamic exploration of mortality data.
 
