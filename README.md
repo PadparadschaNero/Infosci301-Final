@@ -10,6 +10,10 @@ This project investigates how **age-specific mortality patterns** can inform **t
 
 Using authoritative datasets from the **Centers for Disease Control and Prevention (CDC)**, **OECD**, and the **World Health Organization (WHO)**, the project explores the **leading causes of death across age groups**, including in-depth analysis of suicide statistics. By understanding demographic shifts in mortality patterns, we aim to provide actionable insights for **policymakers** and **healthcare providers** to design **age-sensitive interventions** and **optimize healthcare resources**.
 
+## ❓ Research Question
+
+**How can age-specific mortality patterns inform targeted healthcare resource allocation for ageing populations worldwide?**
+
 ## 📊 Data Sources
 
 1. **CDC Suicide Data and Statistics**  
@@ -21,10 +25,6 @@ Using authoritative datasets from the **Centers for Disease Control and Preventi
 
 3. **WHO Suicide Data (1950–2021)**  
    - Presents a comprehensive global and historical perspective on suicide trends.
-
-## ❓ Research Question
-
-**How can age-specific mortality patterns inform targeted healthcare resource allocation for ageing populations worldwide?**
 
 ## 📊 SDG Goals
 ![image](https://github.com/user-attachments/assets/1de7ff97-aa9a-4c65-9ee4-97143c37a0fc)
