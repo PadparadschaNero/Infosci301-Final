@@ -1,39 +1,67 @@
-# Infosci301-Final
-## Research Topic Age-Specific Mortality Patterns and Healthcare Resource Allocation
-### Introduction
-This project investigates how age-specific mortality patterns can inform targeted healthcare resource allocation globally, focusing particularly on ageing populations. It leverages authoritative datasets from the Centres for Disease Control and Prevention (CDC), OECD, and World Health Organisation (WHO) to explore the leading causes of death across different age groups. By examining suicide statistics alongside other mortality data, this research aims to enhance understanding of the demographic shifts in causes of death, providing essential insights for policymakers and healthcare providers to allocate resources and design age-sensitive healthcare interventions strategically.
+# Infosci301 Final Project: Age-Specific Mortality Patterns and Healthcare Resource Allocation
 
-### Data Source
-1. CDC Suicide Data and Statistics: Offers detailed suicide statistics by age, sex, race/ethnicity, and method, aligned with FAIR and CARE principles.
-2. OECD Causes of Mortality dataset: Provides extensive demographic insights into mortality causes within OECD countries.
-3. WHO Suicide Data (1950-2021): Delivers a comprehensive, historical, global view of suicide trends and patterns.
+## 📌 Research Topic
 
-### Research Question
-How can age-specific mortality patterns inform targeted healthcare resource allocation for ageing populations worldwide?
+**Age-Specific Mortality Patterns and Healthcare Resource Allocation**
 
-### Processing & Visualization
+## 🧭 Introduction
 
-#### Current Progress
+This project investigates how **age-specific mortality patterns** can inform **targeted healthcare resource allocation** globally, with a special focus on ageing populations. 
 
-- Data Integration: Combined CDC, OECD, and WHO datasets to comprehensively analyze mortality trends.
+Using authoritative datasets from the **Centers for Disease Control and Prevention (CDC)**, **OECD**, and the **World Health Organization (WHO)**, the project explores the **leading causes of death across age groups**, including in-depth analysis of suicide statistics. By understanding demographic shifts in mortality patterns, we aim to provide actionable insights for **policymakers** and **healthcare providers** to design **age-sensitive interventions** and **optimize healthcare resources**.
 
-- Interactive Visualization: Developed a dynamic dashboard using Plotly to enhance data exploration, usability, and engagement.
+## 📊 Data Sources
+
+1. **CDC Suicide Data and Statistics**  
+   - Provides suicide data disaggregated by age, sex, race/ethnicity, and method.  
+   - Aligned with **FAIR** and **CARE** data principles.
+
+2. **OECD Causes of Mortality Dataset**  
+   - Offers broad demographic insights into causes of death in OECD countries.
+
+3. **WHO Suicide Data (1950–2021)**  
+   - Presents a comprehensive global and historical perspective on suicide trends.
+
+## ❓ Research Question
+
+**How can age-specific mortality patterns inform targeted healthcare resource allocation for ageing populations worldwide?**
+
+## 🛠️ Processing & Visualization
+
+## 📊 SDG Goals
+![image](https://github.com/user-attachments/assets/1de7ff97-aa9a-4c65-9ee4-97143c37a0fc)
+
+### ✅ Current Progress
+
+- **Data Integration**: Merged CDC, OECD, and WHO datasets to analyze cross-country mortality trends.
+- **Interactive Dashboard**: Built using **Plotly**, enabling dynamic exploration of mortality data.
+
 ![Average Death Cause Percentage by Age Group](average_death_cause_percentage_by_age_group.jpg)
 
-#### Key Features
+### ✨ Key Features
 
-- Interactive graphs displaying mortality percentages by cause and age group.
-- Enhanced interpretability and user engagement through dynamic exploration.
+- Interactive graphs showing mortality percentages by **cause** and **age group**.
+- Designed for **user engagement** and **easy interpretability** through interactive elements.
 
-Our Colab Link is https://colab.research.google.com/drive/1kC6ilGj_CKXCvTS0Z8EU_ag2qJxzGebn#scrollTo=kVztrjq-r2Qd
-#### Next Steps
+- 📍 [Colab Notebook Link](https://colab.research.google.com/drive/1kC6ilGj_CKXCvTS0Z8EU_ag2qJxzGebn#scrollTo=kVztrjq-r2Qd)
 
-Develop additional intuitive and diverse interactive visualizations.
-Optimise visual enhancements, including colour schemes, responsive layouts, and user interfaces, to improve accessibility and interoperability.
+### 🔜 Next Steps
 
-### Team Contribution
-All team members contributed equally and collaboratively to the successful development of this project. Qianyue Jiao led the data collection and preprocessing phase, ensuring that all datasets adhered to international standards such as FAIR and CARE principles. Yifei Yang focused on exploratory data analysis and the application of potential methods for insight generation, contributing to both the technical depth and interpretability of the project. Zixuan Li was responsible for designing the interactive visualization dashboard and drafting the innovation flowchart, integrating user-centred design principles and technical implementation.
+- Expand visualizations to offer **deeper insights** and greater interactivity.
+- Enhance visual appeal and usability by refining **color schemes**, **responsive layouts**, and **interface accessibility**.
 
-### Acknowledgement
+## 👥 Team Contribution
 
-We appreciate Prof. Luyao Zhang, whose expert guidance and continuous support significantly shaped our research methodology and visualization strategies. We also appreciate our classmates' valuable insights and feedback during proposal reviews and visualization prototyping sessions. Their constructive criticism and suggestions greatly improved the clarity and effectiveness of our visual and analytical approaches.
+- **Qianyue Jiao**: Led data collection and preprocessing, ensuring compliance with international standards (FAIR and CARE).
+- **Yifei Yang**: Conducted exploratory data analysis and contributed to insight generation and interpretability.
+- **Zixuan Li**: Designed the interactive dashboard and developed the innovation flowchart using user-centered design principles.
+
+## 🙏 Acknowledgements
+
+We extend our sincere gratitude to **Professor Luyao Zhang**, whose expert guidance and support significantly shaped our research direction and visualization strategy.
+
+We also thank our classmates for their **constructive feedback** during proposal and prototyping reviews, which greatly enhanced our project's clarity and impact.
+
+---
+
+Feel free to explore, clone, and contribute to this repository!
