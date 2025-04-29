@@ -38,7 +38,7 @@ Using authoritative datasets from the **Centers for Disease Control and Preventi
 - **Data Integration**: Merged CDC, OECD, and WHO datasets to analyze cross-country mortality trends.
 - **Interactive Dashboard**: Built using **Plotly**, enabling dynamic exploration of mortality data.
 
-![Average Death Cause Percentage by Age Group](average_death_cause_percentage_by_age_group.jpg)
+![Average Death Cause Percentage by Age Group](Average_Death_Cause_Percentage_by_Age_Group.jpg)
 
 ### ✨ Key Features
 
