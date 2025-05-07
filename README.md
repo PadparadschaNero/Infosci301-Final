@@ -1,4 +1,4 @@
-# Infosci301 Final Project: Age-Specific Mortality Patterns and Healthcare Resource Allocation
+# Infosci301 Final Project: Visualizing Global Suicide Trends: A Data-Driven Exploration of Patterns Across Time, Gender, and Geography
 
 ## 📌 Research Topic
 
@@ -28,6 +28,7 @@ Using authoritative datasets from the **Centers for Disease Control and Preventi
 
 ## 📊 SDG Goals
 ![image](https://github.com/user-attachments/assets/1de7ff97-aa9a-4c65-9ee4-97143c37a0fc)
+This project aligns with the United Nations Sustainable Development Goal 3: "Ensure healthy lives and promote well-being for all at all ages." By offering clear, accessible visualizations of suicide trends, it enables policymakers, mental health practitioners, and the public to identify at-risk populations and evaluate progress toward suicide prevention. The project emphasizes the importance of mental health data transparency and cross-national comparisons, contributing to early warning systems and more effective policy responses aimed at reducing suicide rates globally.
 
 ## 🛠️ Processing & Visualization
 
@@ -51,11 +52,20 @@ Using authoritative datasets from the **Centers for Disease Control and Preventi
 - Expand visualizations to offer **deeper insights** and greater interactivity.
 - Enhance visual appeal and usability by refining **color schemes**, **responsive layouts**, and **interface accessibility**.
 
+##  Reflection on Growth and Learning
+Moving from the individual InfoVis Redesign to our team-based project marked a significant step in my intellectual and professional growth. The solo project helped us develop foundational design skills and understand the importance of audience-centered visualization. Working in a team later pushed me to communicate ideas clearly, adapt to feedback, and collaborate effectively.
+
+In-class activities deepened our technical abilities and design thinking, while symposiums exposed me to real-world applications of data visualization, showing how visuals can drive social awareness. Most notably, the ZhouZhuang Life Mysterious Museum field trip reshaped our team’s design approach. Seeing how the museum used storytelling and local culture to engage audiences inspired us to create visualizations that are context-sensitive and socially meaningful.
+
+
 ## 👥 Team Contribution
 
 - **Qianyue Jiao**: Led data collection and preprocessing, ensuring compliance with international standards (FAIR and CARE).
 - **Yifei Yang**: Conducted exploratory data analysis and contributed to insight generation and interpretability.
 - **Zixuan Li**: Designed the interactive dashboard and developed the innovation flowchart using user-centered design principles.
+
+## Disclaimer: 
+This is the final project for INFOSCI 301 Data Visualization and Information Aesthetics, instructed by Prof. Luyao Zhang at Duke Kunshan University in Spring 2025.
 
 ## 🙏 Acknowledgements
 
