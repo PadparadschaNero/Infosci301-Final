@@ -64,6 +64,10 @@ In-class activities deepened our technical abilities and design thinking, while 
 - **Yifei Yang**: Conducted exploratory data analysis and contributed to insight generation and interpretability.
 - **Zixuan Li**: Designed the interactive dashboard and developed the innovation flowchart using user-centered design principles.
 
+## Video
+https://duke.zoom.us/rec/share/78VBMCwQKO3iuYowzoPmvBGI_Wl7Lxufhy9RCtUbsAjIeRyyVv0du6KmbCfdfZgt.EQnltaCjyMhgOMF4
+
+
 ## Disclaimer: 
 This is the final project for INFOSCI 301 Data Visualization and Information Aesthetics, instructed by Prof. Luyao Zhang at Duke Kunshan University in Spring 2025.
 
